@@ -9,7 +9,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-public class Homework1 extends DriverUtils {
+public class Homework1_0127 extends DriverUtils {
     @Before
     public void setUp() {
         createDriver("https://www.saucedemo.com/");

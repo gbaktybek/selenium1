@@ -16,7 +16,7 @@ import java.time.Duration;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Homework2 extends CommonMethods {
+public class Homework3_0131 extends CommonMethods {
     @Before
     public void setUp() {
         createDriver("https://www.timeanddate.com/timer/");

@@ -100,14 +100,5 @@ public class Homework3 extends CommonMethods {
         Thread.sleep(3000);
 
 
-
-
-
-
-
-
-
-
-
     }
 }
